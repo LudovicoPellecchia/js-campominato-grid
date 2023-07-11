@@ -1,0 +1,10 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(195, 110, 195);
+}
+
+.left-nav{
+    display: flex;
+}
